@@ -3,3 +3,5 @@ I am a software engineer, specialized in backend engineering.
 You can visit my [Website](https://abdelhady-abdelaal.me)!
 
 I'm looking forward to collaborate on great projects with like minded engineers on github!
+
+![Abdelhady Abdelaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelhady-abdelaal&show_icons=true&theme=transparent)
