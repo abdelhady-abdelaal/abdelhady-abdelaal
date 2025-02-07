@@ -6,7 +6,7 @@
 I am a software engineer, specialized in backend engineering.
 You can visit my [Website](https://abdelhady-abdelaal.me)!
 
-I'm looking forward to collaborate on great projects with like minded engineers on github!
+I'm looking forward to collaborate on great projects with like minded engineers!
 
 ![Abdelhady Abdelaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelhady-abdelaal&show_icons=true&theme=dracula&rank_icon=github)
 ![Streak Stats](https://streak-stats.demolab.com?user=abdelhady-abdelaal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)
