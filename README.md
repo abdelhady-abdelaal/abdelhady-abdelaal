@@ -1,6 +1,5 @@
 ## Hi there 👋!, my name is Abdelhady Abdelaal.
 
-[![](https://img.shields.io/badge/-@abdelhady%20abdelaal-%23181717?style=flat-square&logo=github)](https://github.com/abdelhady-abdelaal)
 [![](https://img.shields.io/badge/Abdelhady%20Abdelaal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelhady-abdelaal/)](https://www.linkedin.com/in/abdelhady-abdelaal/)
 
 I am a software engineer, specialized in backend engineering.
